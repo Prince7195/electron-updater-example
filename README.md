@@ -72,3 +72,7 @@ If you can't use GitHub, you can use other providers:
 9. Do steps 5 and 6 again.
 
 10. Open the installed version of the app and see that it updates itself.
+
+Other Reference:
+
+https://medium.com/@johndyer24/creating-and-deploying-an-auto-updating-electron-app-for-mac-and-windows-using-electron-builder-6a3982c0cee6
